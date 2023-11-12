@@ -31,13 +31,25 @@ Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己�
   <img src="https://github.com/XRealityZone/Let-s-xrOS/assets/11788119/7d911e5f-c526-4d2f-9fcf-c76921f124e6" width="50%" height="50%">
 </div>
 
-3 安装 Let's visionOS 的客户端
+3 安装 Let's xrOS 的客户端
+
+<div align="center">
+  <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/78b9c2f1-2cbd-45a4-9fbe-9344f5cb7c4d" width="50%" height="50%">
+</div>
 
 ## 使用
 
-* 启动应用
+* 首次启动应用后，软件会拉取应用仓库中心的数据，当数据下载完毕后，会进入应用首页，如下图所示：
 
-* 更新数据仓库
+<div align="center">
+  <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/76138432-2087-4840-9d99-f9af400aefcf" width="50%" height="50%">
+</div>
+
+* 当你发现某个应用更新，但 Let's xrOS 没有展示，可以在下载详情页点击 Check 按钮来更新应用仓库中心的数据，如下图所示：
+
+<div align="center">
+  <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/f9d209e5-cefc-46d6-9b5e-206eca26a61e" width="50%" height="50%">
+</div>
 
 ## 关于 XReality.Zone 
 
