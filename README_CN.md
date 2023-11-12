@@ -2,6 +2,7 @@
 
 ![Frame 85](https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/7a956446-8050-40c1-af39-c75a883f50db)
 
+> [英文版说明](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README.md)，[中文版说明](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_CN.md)，[日语版说明](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_JP.md)
 
 Apple Vision Pro 发布预示着空间计算时代的到来，让科技爱好者和开发者开始思考如何在新的交互、系统和硬件上打造独特的三维应用。
 
