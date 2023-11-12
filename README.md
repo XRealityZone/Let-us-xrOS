@@ -2,7 +2,7 @@
 
 # Let’s xrOS
 
-![Frame 85](https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/f53e9591-53a9-4a67-892b-02fe45ddcb4a)
+![Frame 85](https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/7a956446-8050-40c1-af39-c75a883f50db)
 
 
 Apple Vision Pro 发布预示着空间计算时代的到来，让科技爱好者和开发者开始思考如何在新的交互、系统和硬件上打造独特的三维应用。
@@ -38,7 +38,7 @@ Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己�
 ## 关于 XReality.Zone 
 
 <div align="center">
-  <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/ca386589-ce65-43b1-bee1-c27611723bb2" width="10%" height="10%">
+  <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/f8220caf-75b8-41ce-88e0-491988bbee16" width="50%" height="50%">
 </div>
 
 **XRealityZone是一个专注于XR的创作者社区，我们的目标是使XR开发更容易!** 我们希望通过深入浅出的文章、教程，简单但有用的工具，活跃但不聒噪的讨论组等形式，帮助任何一个有志于在 XR 世界进行创造和深耕的创作者。
