@@ -35,7 +35,7 @@ Let’s xrOS is a visionOS application exchange platform, which will allow you t
 3 Download and install the latest version of the Let's xrOS client application from the [Release page](https://github.com/XRealityZone/Let-us-xrOS/releases/tag/1.0).
 
 <div align="center">
-  <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/c4e41e14-6a43-4560-ab2b-8a3e2e680d8e" width="50%" height="50%">
+  <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/f23a7975-c180-47a2-b538-96456e59beba" width="50%" height="50%">
 </div>
 
 ## Usage
