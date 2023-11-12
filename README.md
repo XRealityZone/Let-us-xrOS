@@ -75,5 +75,3 @@ Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己�
 Let's xrOS 是由 [XR 基地](https://xreality.zone/) 发起的，主要参与者有 [Ryan Zhu](https://github.com/underthestars-zhy)，[Lakr](https://github.com/Lakr233)，[SketchK](https://github.com/SketchK)，[Onee](https://github.com/OneeMe) 。
 
 如果你想参与到我们的开发，或者想为这个项目贡献代码，欢迎与通过 [Email](mailto:xreality.zone@outlook.com) 与我们联系。
-
-
