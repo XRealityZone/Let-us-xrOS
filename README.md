@@ -1,5 +1,3 @@
-
-
 # Let’s xrOS
 
 ![Frame 85](https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/7a956446-8050-40c1-af39-c75a883f50db)
@@ -19,7 +17,7 @@ Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己�
 >  
 > 如果你想在 Let’s xrOS 上 **发布或是更新** 自己的应用，你需要在[这个仓库](https://github.com/XRealityZone/XRApps)进行操作。
 
-## 使用方法
+## 安装
 
 1 通过 [XcodesApp](https://github.com/XcodesOrg/XcodesApp) 安装带有最新 visionOS 模拟器的 Xcode。
 
@@ -34,6 +32,12 @@ Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己�
 </div>
 
 3 安装 Let's visionOS 的客户端
+
+## 使用
+
+* 启动应用
+
+* 更新数据仓库
 
 ## 关于 XReality.Zone 
 
