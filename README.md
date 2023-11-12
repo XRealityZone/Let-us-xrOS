@@ -31,7 +31,7 @@ Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己�
   <img src="https://github.com/XRealityZone/Let-s-xrOS/assets/11788119/7d911e5f-c526-4d2f-9fcf-c76921f124e6" width="50%" height="50%">
 </div>
 
-3 安装 Let's xrOS 的客户端
+3 在 [Release 页面](https://github.com/XRealityZone/Let-us-xrOS/releases/tag/1.0)下载并安装最新版本的 Let's xrOS 的客户端应用
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/78b9c2f1-2cbd-45a4-9fbe-9344f5cb7c4d" width="50%" height="50%">
