@@ -11,6 +11,7 @@ Apple Vision Pro 发布预示着空间计算时代的到来，让科技爱好者
 Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己开发的 visionOS 应用分发给来自世界各地的尝鲜者们。
 
 > 这里是下载 Let’s xrOS 应用的仓库，你可以在 release 页面下载并安装它，通过这个应用你可以把玩其他开发者创作的 visionOS 应用。
+>  
 > 如果你想在 Let’s xrOS 上 **发布或是更新** 自己的应用，你需要在[这个仓库](https://github.com/XRealityZone/XRApps)进行操作。
 
 ## 使用方法
