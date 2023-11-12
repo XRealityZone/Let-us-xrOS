@@ -2,76 +2,75 @@
 
 ![Frame 85](https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/7a956446-8050-40c1-af39-c75a883f50db)
 
+The release of Apple Vision Pro heralds the dawn of the spatial computing era, prompting tech enthusiasts and developers to start thinking about how to create unique three-dimensional applications on new interactions, systems, and hardware.
 
-Apple Vision Pro 发布预示着空间计算时代的到来，让科技爱好者和开发者开始思考如何在新的交互、系统和硬件上打造独特的三维应用。
+Since the WWDC 2023 keynote, social media has been flooded with beautiful visuals and demo videos of visionOS apps. However, with the Apple Vision Pro not yet officially released, it's difficult to try out other developers' creations.
 
-自 WWDC 2023 的发布会后，社交媒体上涌现了许多精美的 visionOS App 的效果图和演示视频，然而，由于 Apple Vision Pro 还未正式发布，所以我们很难试玩到其他开发者的作品。
+To address this, we've developed the Let’s xrOS app, allowing you to test visionOS apps from other creators in the community, and experience the allure of spatial computing devices ahead of others.
 
-为了解决这个问题，我们开发了 Let’s xrOS 这个 App，通过它，你可以试玩到社区里其他创作者的 visionOS App，抢先一步体验空间计算设备的魅力。
+We hope this tool will lead to more frequent exchanges among developers and foster the growth of the entire community.
 
-我们希望通过这个工具，能让开发者之间的交流更加频繁，并促进整个社区的发展。
+Let’s xrOS is a visionOS application exchange platform, which will allow you to distribute your developed visionOS apps to early adopters around the world.
 
-Let’s xrOS 是一个 visionOS 应用交流平台 ，它将允许你将自己开发的 visionOS 应用分发给来自世界各地的尝鲜者们。
+> This is the repository to download the Let’s xrOS app. You can download and install it on the release page, and play with visionOS apps created by other developers.
+>
+> If you want to **publish or update** your app on Let’s xrOS, you need to do so in [this repository](https://github.com/XRealityZone/XRApps).
 
-> 这里是下载 Let’s xrOS 应用的仓库，你可以在 release 页面下载并安装它，通过这个应用你可以把玩其他开发者创作的 visionOS 应用。
->  
-> 如果你想在 Let’s xrOS 上 **发布或是更新** 自己的应用，你需要在[这个仓库](https://github.com/XRealityZone/XRApps)进行操作。
+## Installation
 
-## 安装
-
-1 通过 [XcodesApp](https://github.com/XcodesOrg/XcodesApp) 安装带有最新 visionOS 模拟器的 Xcode。
+1 Install Xcode with the latest visionOS simulator through [XcodesApp](https://github.com/XcodesOrg/XcodesApp).
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-s-xrOS/assets/11788119/dc3edbfd-0d51-4fbd-80a5-e40017373145" width="50%" height="50%">
 </div>
 
-2 检查并确保 Xcode 的相关配置正确，例如正确安装和设置 Xcode Command Line 等。
+2 Check and ensure the relevant configurations of Xcode are correct, such as proper installation and setup of Xcode Command Line tools.
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-s-xrOS/assets/11788119/7d911e5f-c526-4d2f-9fcf-c76921f124e6" width="50%" height="50%">
 </div>
 
-3 在 [Release 页面](https://github.com/XRealityZone/Let-us-xrOS/releases/tag/1.0)下载并安装最新版本的 Let's xrOS 的客户端应用
+3 Install the Let's xrOS client.
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/78b9c2f1-2cbd-45a4-9fbe-9344f5cb7c4d" width="50%" height="50%">
 </div>
 
-## 使用
+## Usage
 
-* 首次启动应用后，软件会拉取应用仓库中心的数据，当数据下载完毕后，会进入应用首页，如下图所示：
+* Upon first launch, the app will pull data from the application repository center. Once the data download is complete, it will enter the app home page as shown below:
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/76138432-2087-4840-9d99-f9af400aefcf" width="50%" height="50%">
 </div>
 
-* 当你发现某个应用更新，但 Let's xrOS 没有展示，可以在下载详情页点击 Check 按钮来更新应用仓库中心的数据，如下图所示：
+* If you notice an app update that Let's xrOS hasn't displayed, you can update the application repository center's data by clicking the Check button on the download details page, as shown below:
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/f9d209e5-cefc-46d6-9b5e-206eca26a61e" width="50%" height="50%">
 </div>
 
-## 关于 XReality.Zone 
+## About XReality.Zone
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/f8220caf-75b8-41ce-88e0-491988bbee16" width="50%" height="50%">
 </div>
 
-**XRealityZone是一个专注于XR的创作者社区，我们的目标是使XR开发更容易!** 我们希望通过深入浅出的文章、教程，简单但有用的工具，活跃但不聒噪的讨论组等形式，帮助任何一个有志于在 XR 世界进行创造和深耕的创作者。
+**XRealityZone is a creator community focused on XR, aiming to make XR development easier!** We hope to assist creators eager to innovate and delve into the XR world through insightful articles, tutorials, simple yet useful tools, and active but unobtrusive discussion groups.
 
-我们坚信，一个人可能会走得很快，但只有一群人才能走得更远，目前，我们正专注于以下这些内容：
+We believe that an individual can go fast, but only a group can go far. Currently, we are focused on the following:
 
-- **[XR 世界导览](https://xreality.zone/zh/tags/newsletter/)**：这是一个只为你奉上高质量 XR 资讯的期刊，平均半个月一期，希望给你每次的阅读都带来 “爽快” 的阅读体验
-- **[XR 开发文章](https://xreality.zone/zh/tags/article/)**：在 XR 开发资料匮乏的时代，我们希望将我们已有的知识呈现出来，给贫瘠的沙漠带来一丝充满希望的绿意。
+- **[XR World Guide](https://xreality.zone/zh/tags/newsletter/)**: A journal that offers high-quality XR information, published bi-monthly, aiming to provide a "refreshing" reading experience every time.
+- **[XR Development Articles](https://xreality.zone/zh/tags/article/)**: In an era of scarce XR development resources, we hope to share our knowledge and bring a glimmer of hope to the barren desert.
 
-> 如果你熟悉英语，你可以通过以下方式找到我们:[官方网站(EN)](https://xreality.zone/en/), [X(twitter)](https://twitter.com/XRealityZone), [Medium](https://medium.com/@xreality.zone)。
+> If you are proficient in English, you can find us through the following: [Official Website (EN)](https://xreality.zone/en/), [Twitter](https://twitter.com/XRealityZone), [Medium](https://medium.com/@xreality.zone).
 >
-> 如果您熟悉中文，您还可以通过以下方式找到我们:[官方网站(CN)](https://xreality.zone/zh/), [微博](https://m.weibo.cn/u/6874667850), [即刻](https://web.okjike.com/u/ab5d744a-7d44-4a68-8e66-af6b49515252), [微信公众号](http://weixin.qq.com/r/qzkSCsjEK5VUrYxp92y5), [稀土掘金](https://juejin.cn/user/1075772629977741)。
+> If you are proficient in Chinese, you can also find us through: [Official Website (CN)](https://xreality.zone/zh/), [Weibo](https://m.weibo.cn/u/6874667850), [Jike](https://web.okjike.com/u/ab5d744a-7d44-4a68-8e66-af6b49515252), [WeChat Official Account](http://weixin.qq.com/r/qzkSCsjEK5VUrYxp92y5), [Juejin](https://juejin.cn/user/1075772629977741).
 
-如果你对我们所做的事情感兴趣，非常欢迎你通过 [Email](mailto:xreality.zone@outlook.com) 与我们联系。
+If you are interested in what we do, we warmly welcome you to contact us via [Email](mailto:xreality.zone@outlook.com).
 
-## 关于 Let's xrOS
+## About Let's xrOS
 
-Let's xrOS 是由 [XR 基地](https://xreality.zone/) 发起的，主要参与者有 [Ryan Zhu](https://github.com/underthestars-zhy)，[Lakr](https://github.com/Lakr233)，[SketchK](https://github.com/SketchK)，[Onee](https://github.com/OneeMe) 。
+Let's xrOS is initiated by [XReality.Zone](https://xreality.zone/), with major contributors including [Ryan Zhu](https://github.com/underthestars-zhy), [Lakr](https://github.com/Lakr233), [SketchK](https://github.com/SketchK), [Onee](https://github.com/OneeMe).
 
-如果你想参与到我们的开发，或者想为这个项目贡献代码，欢迎与通过 [Email](mailto:xreality.zone@outlook.com) 与我们联系。
+If you want to participate in our development or contribute code to the project, feel free to contact us via [Email](mailto:xreality.zone@outlook.com).
