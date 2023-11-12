@@ -62,8 +62,8 @@ Let’s xrOS is a visionOS application exchange platform, which will allow you t
 
 We believe that an individual can go fast, but only a group can go far. Currently, we are focused on the following:
 
-- **[XR World Guide](https://xreality.zone/zh/tags/newsletter/)**: A journal that offers high-quality XR information, published bi-monthly, aiming to provide a "refreshing" reading experience every time.
-- **[XR Development Articles](https://xreality.zone/zh/tags/article/)**: In an era of scarce XR development resources, we hope to share our knowledge and bring a glimmer of hope to the barren desert.
+- **[XR World Guide](https://xreality.zone/en/tags/newsletter/)**: A journal that offers high-quality XR information, published bi-monthly, aiming to provide a "refreshing" reading experience every time.
+- **[XR Development Articles](https://xreality.zone/en/tags/article/)**: In an era of scarce XR development resources, we hope to share our knowledge and bring a glimmer of hope to the barren desert.
 
 > If you are proficient in English, you can find us through the following: [Official Website (EN)](https://xreality.zone/en/), [Twitter](https://twitter.com/XRealityZone), [Medium](https://medium.com/@xreality.zone).
 >
