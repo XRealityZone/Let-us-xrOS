@@ -4,6 +4,9 @@
 
 > [English Instructions](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README.md), [Chinese Instructions](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_CN.md), [Japanese Instructions](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_JP.md)
 
+### Highlight :bulb:
+> *Let's xrOS* allows developers to test and share **pre-built binary** Apps without disclose source code. Our primary intention is to allow everyone to share their creativity without compromising their code privacy. 
+
 The release of Apple Vision Pro heralds the dawn of the spatial computing era, prompting tech enthusiasts and developers to start thinking about how to create unique three-dimensional applications on new interactions, systems, and hardware.
 
 Since the WWDC 2023 keynote, social media has been flooded with beautiful visuals and demo videos of visionOS apps. However, with the Apple Vision Pro not yet officially released, it's difficult to try out other developers' creations.

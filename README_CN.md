@@ -4,6 +4,9 @@
 
 > [英文版说明](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README.md)，[中文版说明](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_CN.md)，[日语版说明](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_JP.md)
 
+### 重要说明 :bulb:
+> 本项目不要求开发者公开源代码，只需要上传项目的**二进制文件**。我们的主要目的是让每个人都能分享他们的创意。
+
 Apple Vision Pro 发布预示着空间计算时代的到来，让科技爱好者和开发者开始思考如何在新的交互、系统和硬件上打造独特的三维应用。
 
 自 WWDC 2023 的发布会后，社交媒体上涌现了许多精美的 visionOS App 的效果图和演示视频，然而，由于 Apple Vision Pro 还未正式发布，所以我们很难试玩到其他开发者的作品。
