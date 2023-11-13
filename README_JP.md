@@ -35,7 +35,7 @@ Let's xrOS はvisionOSアプリケーションの交流プラットフォーム�
   <img src="https://github.com/XRealityZone/Let-s-xrOS/assets/11788119/7d911e5f-c526-4d2f-9fcf-c76921f124e6" width="50%" height="50%">
 </div>
 
-3 [Releaseページ](https://github.com/XRealityZone/Let-us-xrOS/releases/tag/1.0)からLet's xrOSクライアントアプリの最新版をダウンロードしてインストールします。
+3 [Releaseページ](https://github.com/XRealityZone/Let-us-xrOS/releases)からLet's xrOSクライアントアプリの最新版をダウンロードしてインストールします。
 
 <div align="center">
   <img src="https://github.com/XRealityZone/Let-us-xrOS/assets/11788119/f23a7975-c180-47a2-b538-96456e59beba" width="50%" height="50%">
